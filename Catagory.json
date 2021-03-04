@@ -1,0 +1,125 @@
+[
+    {
+        "catagory": "Fruits & Vegetables",
+        "subCatagories": [
+            "Fresh Fruits",
+            "Fresh Vegetables",
+            "Herbs & Seasonings",
+            "Exotic Fruits & Vegetables"
+        ]
+    },
+    {
+        "catagory": "Dairy & Bakery",
+        "subCatagories": [
+            "Dairy",
+            "Toast & Khari",
+            "Cakes & Muffins",
+            "Breads and Buns",
+            "Baked Cookies",
+            "Bakery Snacks",
+            "Batter & Chutney",
+            "Cheese",
+            "Ghee",
+            "Paneer & Tofu"
+        ]
+    },
+    {
+        "catagory": "Staples",
+        "subCatagories": [
+            "Atta, Flours & Sooji",
+            "Dals & Pulses",
+            "Rice & Rice Products",
+            "Edible Oils",
+            "Masalas & Spices",
+            "Salt, Sugar & Jaggery",
+            "Soya Products, Wheat & Other Grains",
+            "Dry Fruits & Nuts"
+        ]
+    },
+    {
+        "catagory": "Snacks & Branded Foods",
+        "subCatagories": [
+            "Biscuits & Cookies",
+            "Noodle, Pasta, Vermicelli",
+            "Breakfast Cereals",
+            "Snacks & Namkeen",
+            "Chocolates & Candies",
+            "Ready To Cook & Eat",
+            "Frozen Veggies & Snacks",
+            "Spreads, Sauces, Ketchup",
+            "Indian Sweets",
+            "Pickles & Chutney",
+            "Extracts & Flavouring"
+        ]
+    },
+    {
+        "catagory": "Beverages",
+        "subCatagories": [
+            "Tea",
+            "Coffee",
+            "Fruit juices",
+            "Energy & Soft Drinks",
+            "Health Drink & Supplement",
+            "Soda & Flavoured Water"
+        ]
+    },
+    {
+        "catagory": "Personal Care",
+        "subCatagories": [
+            "Hair Care",
+            "Oral Care",
+            "Skin Care",
+            "Bath & Hand Wash",
+            "Body Wash & Bathing Accessories",
+            "Feminine Hygiene",
+            "Men's Grooming",
+            "Deo & Fragrances",
+            "Health & Wellness",
+            "Makeup",
+            "Covid Essentials"
+        ]
+    },
+    {
+        "catagory": "Home Care",
+        "subCatagories": [
+            "Detergents",
+            "Dishwash",
+            "All Purpose Cleaners",
+            "Fresheners & Repellents",
+            "Pooja Needs",
+            "Shoe Care"
+        ]
+    },
+    {
+        "catagory": "Baby Care",
+        "subCatagories": [
+            "Baby Grooming",
+            "Baby Bath & Hygiene",
+            "Diapers & Wipes",
+            "Baby Food & Formula",
+            "Health & Wellness",
+            "Feeding Accessories"
+        ]
+    },
+    {
+        "catagory": "Home & Kitchen",
+        "subCatagories": [
+            "Pooja Needs",
+            "Disposables",
+            "Electrical",
+            "Mops, Brushes & Scrubs",
+            "Furnishing",
+            "Stationery",
+            "Auto Care",
+            "Home Appliances",
+            "Toys, Games & Fitness",
+            "Furniture",
+            "Carpentry & work accessories",
+            "Kitchenware",
+            "Dining",
+            "Bathroom & Laundry Accessories",
+            "Books",
+            "Bags & Travel Luggage"
+        ]
+    }
+]

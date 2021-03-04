@@ -1,0 +1,57 @@
+{
+    "Dairy & Bakery": [
+        "Batter & Chutney",
+        "Cakes & Muffins",
+        "Baked Cookies",
+        "Bakery Snacks",
+        "Toast & Khari",
+        "Ghee",
+        "Cheese",
+        "Breads and Buns",
+        "Paneer & Tofu"
+    ],
+    "Fruits & Vegetables": [
+        "Herbs & Seasonings",
+        "Exotic Fruits & Vegetables",
+        "Fresh Fruits"
+    ],
+    "Home & Kitchen": [
+        "Carpentry & work accessories",
+        "Auto Care",
+        "Mops, Brushes & Scrubs",
+        "Furnishing",
+        "Toys, Games & Fitness",
+        "Bags & Travel Luggage"
+    ],
+    "Personal Care": [
+        "Covid Essentials"
+    ],
+    "Staples": [
+        "Soya Products, Wheat & Other Grains",
+        "Atta, Flours & Sooji",
+        "Dals & Pulses",
+        "Salt, Sugar & Jaggery",
+        "Dry Fruits & Nuts",
+        "Masalas & Spices",
+        "Rice & Rice Products"
+    ],
+    "Beverages": [
+        "Fruit juices"
+    ],
+    "Snacks & Branded Foods": [
+        "Biscuits & Cookies",
+        "Chocolates & Candies",
+        "Snacks & Namkeen",
+        "Breakfast Cereals",
+        "Spreads, Sauces, Ketchup"
+    ],
+    "Baby Care": [
+        "Baby Bath & Hygiene",
+        "Diapers & Wipes",
+        "Feeding Accessories"
+    ],
+    "Home Care": [
+        "Detergents",
+        "Pooja Needs"
+    ]
+}
